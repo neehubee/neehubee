@@ -26,13 +26,44 @@ I’m driven by a love for solving problems! With a foundation in full-stack dev
 <!--
      This is the list of my skills and tools I am studying!
 -->
+### 💻 Main Skills
 
-### Main skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,mysql,html,css,firebase,git,github,postman)](https://skillicons.dev)
+#### 🧠 Programming Languages
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
-### Studying
-[![Learning](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)  
-Keras • OpenCV • Mediapipe • Teachable Machine
+#### 🖥️ Web Development (MERN Stack)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+
+#### 🤖 AI/ML & Computer Vision
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+
+- **Keras**
+- **OpenCV**
+- **MediaPipe**
+- **Teachable Machine**
+- **OSINT with Python**
+
+#### 🗄️ Backend & Databases
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+
+#### ⚙️ Tools & Platforms
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+#### 🚀 Deployment & Hosting
+[![Render](https://skillicons.dev/icons?i=render)](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
