@@ -2,11 +2,14 @@
     Hey there, I'm Neehara Prajesh!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,dda0dd,ff7890&height=120&section=header" alt="header"/>
+<!-- Pastel Pink Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb,f8c8dc,f3d1e0&height=120&section=header" alt="header" />
 
-
+<!-- Typing Text with Priority on AI/ML and soft pink tones -->
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FFAACC&width=500&lines=Hello%2C+I'm+Neehara+Prajesh;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Lover" alt="Neehara Prajesh Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=F28DA6&width=520&lines=Hello%2C+I'm+Neehara+Prajesh;AI+%26+ML+Enthusiast;Full-Stack+Developer;Cybersecurity+Lover" alt="Neehara Prajesh Typing SVG" />
+</a>
+
 </a>
 
 
