@@ -43,8 +43,8 @@ I’m driven by a love for solving problems! With a foundation in full-stack dev
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
 #### 🤖 AI/ML & Computer Vision
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 
+- **TensorFlow**
 - **Keras**
 - **OpenCV**
 - **MediaPipe**
