@@ -71,11 +71,6 @@ You can find my upcoming articles on Medium, where I’ll share technical tutori
      Oh, hello there, recruiters!
 -->
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1tMb48Mjy2WVj7rhELIqbUJmwHKcOISWP/view?usp=sharing" download>Download my resume</a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
 <!--
      Thanks for being my guest <3
