@@ -2,7 +2,7 @@
     Hey there, I'm Neehara Prajesh!
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,dda0dd,b0e0e6&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1,dda0dd,ff7890&height=120&section=header" alt="header"/>
 
 
 <a href="https://git.io/typing-svg">
