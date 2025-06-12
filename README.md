@@ -1,13 +1,11 @@
 <!--
     Hey there, I'm Neehara Prajesh!
-    
-    
 -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+I'm+Neehara+Prajesh;Full-Stack+Developer;Cybersecurity+%26+ML+Enthusiast" alt="Neehara Prajesh Typing SVG"/>
 </a>
 
 <!--
@@ -15,7 +13,7 @@
 -->
 
 <div>
-    <img src="./assets/about_daria.gif" alt="About Me Terminal GIF"/>
+    <img src="./assets/about_neehara.gif" alt="About Me Terminal GIF"/>
 </div>
 
 <!--
@@ -23,39 +21,34 @@
 -->
 
 ### My mission
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+I’m driven by a love for solving problems! With a foundation in full-stack development, AI/ML, and cybersecurity, I strive to build accessible, intelligent tools that make an impact. My mission is to contribute meaningful, tech-enabled solutions that enhance people's lives.
 
 <!--
      This is the list of my skills and tools I am studying!
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,mysql,html,css,firebase,git,github,postman)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)  
+Keras • OpenCV • Mediapipe • Teachable Machine
 
 <!--
      I also have my own blog with useful information, check it out ^^
 -->
 
+<!-- You can include this section if you publish -->
+<!--
 ### Publications
 <div>
-  <a href="https://medium.com/@daria-stanilevici">
+  <a href="https://medium.com/@neeharaprajesh">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
-  </a>
-  <a href="https://dev.to/daria-stanilevici">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="Dev.to">
   </a>
 </div>
 
-You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
-I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
-Check out my latest post 👇<br>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Medium Article">
-  </a>
-<br>
+You can find my upcoming articles on Medium, where I’ll share technical tutorials, project breakdowns, and thoughts on AI, cybersecurity, and more.
+-->
 
 <!--
      Fast links to my socials!
@@ -63,20 +56,14 @@ Check out my latest post 👇<br>
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/daria-stanilevici/">
+    <a href="https://www.linkedin.com/in/neehara-prajesh-neehara">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
-    <a href="https://dev.to/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/172bc424-569a-4522-a787-97f4cd5a685d" alt="Dev.to" width="37" height="37"/>
+    <a href="https://github.com/neehubee">
+        <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.credly.com/users/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/6cc0dbde-bca6-43e8-a460-aa67fb449c80" alt="Credly" width="35" height="35"/>
-    </a>
-    <a href="https://www.artstation.com/daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/1206188f-4274-4240-93e6-0dfc1919f9f0" alt="Art Station" width="33" height="33"/>
-    </a>
-    <a href="https://medium.com/@daria-stanilevici">
-        <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
+    <a href="mailto:neeharaprajesh.web@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </div>
 
@@ -86,7 +73,7 @@ Check out my latest post 👇<br>
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1tMb48Mjy2WVj7rhELIqbUJmwHKcOISWP/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
