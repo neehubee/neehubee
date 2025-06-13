@@ -68,8 +68,6 @@ I’m driven by a love for solving problems! With a foundation in full-stack dev
 <!--
      I also have my own blog with useful information, check it out ^^
 -->
-![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=blue)
-
 <!-- You can include this section if you publish -->
 <!--
 ### Publications
@@ -102,6 +100,8 @@ You can find my upcoming articles on Medium, where I’ll share technical tutori
 <!--
      Oh, hello there, recruiters!
 -->
+
+![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=blue)
 
 
 <!--
