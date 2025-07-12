@@ -26,45 +26,73 @@ I’m driven by a love for solving problems! With a foundation in full-stack dev
 <!--
      This is the list of my skills and tools I am studying!
 -->
-### 💻 Main Skills
+### 🧠 Languages  
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-#### 🧠 Programming Languages  
-[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
-[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+---
 
-#### 🖥️ Web Development (MERN & Flask)  
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+### 🌐 Web Development & Frameworks  
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/MaterialUI-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white">
+</div>
 
-#### 🤖 AI/ML & Computer Vision  
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40"/>
-<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MediaPipe_logo.svg/512px-MediaPipe_logo.svg.png" width="40"/>
-<img src="https://static-00.iconduck.com/assets.00/teachable-machine-icon-2048x2048-5mi27gxy.png" width="40"/>  
-🧠 OSINT with Python
+---
 
-#### 🗄️ Backend & Databases  
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+### 🤖 AI, ML & Computer Vision  
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/MediaPipe-FF6F00.svg?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/TeachableMachine-4285F4.svg?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Wav2Vec-FBFCFC.svg?style=for-the-badge&logo=facebook&logoColor=black">
+  <img src="https://img.shields.io/badge/OSINT-008080.svg?style=for-the-badge&logo=python&logoColor=white">
+</div>
 
-#### ⚙️ Tools & Platforms  
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+---
 
-#### 🚀 Deployment & Hosting  
-[![Render](https://skillicons.dev/icons?i=render)](https://skillicons.dev)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+### 💽 Databases & Backend  
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</div>
+
+---
+
+### 🛠 Tools & Platforms  
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/VS Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black">
+</div>
+
+---
+
+### 🤖 LLM Tools (Used in Projects)
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black">
+</div>
+
 
 <!--
      I also have my own blog with useful information, check it out ^^
