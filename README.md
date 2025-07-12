@@ -26,6 +26,7 @@ I’m driven by a love for solving problems! With a foundation in full-stack dev
 <!--
      This is the list of my skills and tools I am studying!
 -->
+
 ### 💻 Main Skills
 
 #### 🧠 Programming Languages
