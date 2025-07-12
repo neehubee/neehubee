@@ -26,43 +26,43 @@ I’m driven by a love for solving problems! With a foundation in full-stack dev
 <!--
      This is the list of my skills and tools I am studying!
 -->
-
 ### 💻 Main Skills
 
-#### 🧠 Programming Languages
+#### 🧠 Programming Languages  
 [![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
-#### 🖥️ Web Development (MERN Stack)
+#### 🖥️ Web Development (MERN & Flask)  
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
 
-#### 🤖 AI/ML & Computer Vision
+#### 🤖 AI/ML & Computer Vision  
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40"/>
+<img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MediaPipe_logo.svg/512px-MediaPipe_logo.svg.png" width="40"/>
+<img src="https://static-00.iconduck.com/assets.00/teachable-machine-icon-2048x2048-5mi27gxy.png" width="40"/>  
+🧠 OSINT with Python
 
-- **TensorFlow**
-- **Keras**
-- **OpenCV**
-- **MediaPipe**
-- **Teachable Machine**
-- **OSINT with Python**
-
-#### 🗄️ Backend & Databases
+#### 🗄️ Backend & Databases  
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 
-#### ⚙️ Tools & Platforms
+#### ⚙️ Tools & Platforms  
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-#### 🚀 Deployment & Hosting
+#### 🚀 Deployment & Hosting  
 [![Render](https://skillicons.dev/icons?i=render)](https://skillicons.dev)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
