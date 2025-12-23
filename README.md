@@ -112,3 +112,5 @@ Always learning. Always building. Always improving.
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neehubee&show_icons=true&theme=default&title_color=1F3C88&icon_color=1F3C88)
+
