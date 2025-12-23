@@ -2,8 +2,7 @@
   Hi, I'm Neehara Prajesh
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1F3C88
-&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1F3C88&height=120&section=header"/>
 
 <h1 align="center">Hi, I'm Neehara Prajesh 👋</h1>
 
@@ -17,13 +16,34 @@ I build intelligent systems, scalable applications, and real-world solutions usi
 
 ---
 
+## 📊 GitHub Stats & Highlights
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=neehubee&theme=default&ring=1F3C88&fire=1F3C88)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neehubee&show_icons=true)  
+![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=blue)
+
+</div>
+
+---
+
+### 🏆 Highlights
+- Built **production-ready AI systems** using NLP, CV, and LLMs  
+- Designed **end-to-end pipelines** from data to deployment  
+- Winner & finalist in **multiple hackathons**  
+- Open-source contributor & continuous learner  
+- **Strong academic record** with A+ grades  
+
+---
+
 ### 🚀 About Me
 
 I’m a Computer Science engineer passionate about **building end-to-end, production-ready systems** — from data and models to APIs and user-facing applications.
 
-My work spans:
-- **AI & Machine Learning** (NLP, Computer Vision, LLMs)
-- **Full-Stack & Backend Engineering**
+My work spans:  
+- **AI & Machine Learning** (NLP, Computer Vision, LLMs)  
+- **Full-Stack & Backend Engineering**  
 - **Scalable, deployment-ready systems**
 
 I enjoy solving ambiguous problems, experimenting with emerging technologies, and turning ideas into impactful products.
@@ -86,14 +106,6 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
 
 ---
 
-### 🏆 Highlights
-- Built **production-ready AI systems** using NLP, CV, and LLMs  
-- Designed **end-to-end pipelines** from data to deployment  
-- Winner & finalist in **multiple hackathons**
-- Open-source contributor & continuous learner
-
----
-
 ### 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/neehara-prajesh-neehara">
@@ -110,16 +122,3 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
 <p align="center">
 Always learning. Always building. Always improving.
 </p>
-## 📊 GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=neehubee&theme=default&ring=1F3C88&fire=1F3C88)
-
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neehubee&show_icons=true)
-
-
-
-
-
-![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=blue)
-
-
