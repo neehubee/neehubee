@@ -98,9 +98,7 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
   <a href="https://www.linkedin.com/in/neehara-prajesh-neehara">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/neehubee">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  
   <a href="mailto:neeharaprajesh.mec@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
