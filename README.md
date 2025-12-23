@@ -111,8 +111,9 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
 Always learning. Always building. Always improving.
 </p>
 ## 📊 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=neehubee&theme=default&ring=1F3C88&fire=1F3C88)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=neehubee)
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neehubee&show_icons=true)
 
 
