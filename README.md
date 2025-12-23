@@ -33,7 +33,7 @@ I build intelligent systems, scalable applications, and real-world solutions usi
 - Designed **end-to-end pipelines** from data to deployment  
 - Winner & finalist in **multiple hackathons**  
 - Open-source contributor & continuous learner  
-- **Strong academic record** with A+ grades  
+  
 
 ---
 
