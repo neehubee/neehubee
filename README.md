@@ -4,7 +4,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1F3C88&height=120&section=header"/>
 
-<h1 align="center">Hi, I'm Neehara Prajesh 👋</h1>
+<h1 align="center">
+  <p align="center">
+  <img alt="Hi I'm NEEHARA PRAJESH" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%84CAE7&size=30&lines=Hi%2C+I'm+NEEHARA+PRAJESH&center=true">
+  </p>
+</h1>
 
 <p align="center">
 AI & Machine Learning Engineer • Full-Stack Developer • Problem Solver
