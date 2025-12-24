@@ -4,6 +4,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1F3C88&height=120&section=header"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1F3C88&height=120&section=footer"/>
+
 <h1 align="center">
   <p align="center">
   <img alt="Hi I'm NEEHARA PRAJESH" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%84CAE7&size=30&lines=Hi%2C+I'm+NEEHARA+PRAJESH&center=true">
