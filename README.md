@@ -124,7 +124,9 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
 ---
 
 <p align="center">
-Always learning. Always building. Always improving.
+> *"It’s not who I am underneath, but what I do that defines me."*  
+
+
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72a18f&height=120&section=header&rotate=180"/>
