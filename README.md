@@ -122,12 +122,13 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
 </div>
 
 ---
-
 <p align="center">
-> *"It’s not who I am underneath, but what I do that defines me."*  
-
-
+<i>"It’s not who I am underneath, but what I do that defines me."</i><br>
+— <i>Batman Begins</i>
 </p>
+
+
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72a18f&height=120&section=header&rotate=180"/>
 
