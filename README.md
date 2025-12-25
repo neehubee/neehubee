@@ -1,6 +1,4 @@
-<!--
-  Hi, I'm Neehara Prajesh
--->
+<div style="border: 4px solid #72a18f; border-radius: 15px; padding: 20px; background-color:#e6f1eb;">
 
 <!-- Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72a18f&height=120&section=header"/>
@@ -8,7 +6,7 @@
 <!-- Centered Typing Text -->
 <h1 align="center">
   <img alt="Hi, I'm NEEHARA PRAJESH" title="Hi" src="https://readme-typing-svg.herokuapp.com?color=72a18f&size=30&center=true&lines=Hi%2C+I'm+NEEHARA+PRAJESH">
-</h1
+</h1>
 
 <p align="center">
 AI & Machine Learning Engineer • Full-Stack Developer • Problem Solver
@@ -29,7 +27,7 @@ I build intelligent systems, scalable applications, and real-world solutions usi
 </p>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neehubee&show_icons=true)  
-![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=72a18f)
 
 </div>
 
@@ -40,7 +38,6 @@ I build intelligent systems, scalable applications, and real-world solutions usi
 - Designed **end-to-end pipelines** from data to deployment  
 - Winner & finalist in **multiple hackathons**  
 - Open-source contributor & continuous learner  
-  
 
 ---
 
@@ -129,6 +126,7 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
 <p align="center">
 Always learning. Always building. Always improving.
 </p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72a18f&height=120&section=header&rotate=180"/>
 
-
+</div>
