@@ -2,15 +2,13 @@
   Hi, I'm Neehara Prajesh
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#72a18f&height=120&section=header"/>
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72a18f&height=120&section=header"/>
 
-
-
+<!-- Centered Typing Text -->
 <h1 align="center">
-  <p align="center">
-  <img alt="Hi I'm NEEHARA PRAJESH" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%72a18f&size=30&lines=Hi%2C+I'm+NEEHARA+PRAJESH&center=true">
-  </p>
-</h1>
+  <img alt="Hi, I'm NEEHARA PRAJESH" title="Hi" src="https://readme-typing-svg.herokuapp.com?color=72a18f&size=30&center=true&lines=Hi%2C+I'm+NEEHARA+PRAJESH">
+</h1
 
 <p align="center">
 AI & Machine Learning Engineer • Full-Stack Developer • Problem Solver
