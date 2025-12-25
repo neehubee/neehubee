@@ -124,7 +124,7 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
 ---
 <p align="center">
 <i>"It’s not who I am underneath, but what I do that defines me."</i><br>
-— <i>Batman Begins</i>
+
 </p>
 
 
