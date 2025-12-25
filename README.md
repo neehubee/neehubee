@@ -8,7 +8,7 @@
 
 <h1 align="center">
   <p align="center">
-  <img alt="Hi I'm NEEHARA PRAJESH" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%84CAE7&size=30&lines=Hi%2C+I'm+NEEHARA+PRAJESH&center=true">
+  <img alt="Hi I'm NEEHARA PRAJESH" title="Hi" src="http://readme-typing-svg.herokuapp.com?color=%72a18f&size=30&lines=Hi%2C+I'm+NEEHARA+PRAJESH&center=true">
   </p>
 </h1>
 
@@ -131,6 +131,6 @@ I enjoy solving ambiguous problems, experimenting with emerging technologies, an
 <p align="center">
 Always learning. Always building. Always improving.
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#1F3C88&height=120&section=header&rotate=180"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#72a18f&height=120&section=header&rotate=180"/>
 
 
