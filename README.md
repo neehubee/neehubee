@@ -22,9 +22,6 @@ I build intelligent systems, scalable applications, and real-world solutions usi
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neehubee&layout=compact&theme=tokyonight&cache_seconds=86400" />
-</p>
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neehubee&show_icons=true)  
 ![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=72a18f)
