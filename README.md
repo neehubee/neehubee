@@ -27,8 +27,11 @@ I build scalable web applications, write efficient C++ code, and focus on strong
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neehubee&show_icons=true&theme=default)
-![Profile Views](https://komarev.com/ghpvc/?username=neehubee&color=72a18f)
 
+
+</div>
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=neehubee&color=72a18f)
 </div>
 
 ---
