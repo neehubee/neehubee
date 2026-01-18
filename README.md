@@ -1,132 +1,135 @@
 <div style="border: 4px solid #72a18f; border-radius: 15px; padding: 20px; background-color:#e6f1eb;">
 
-<!-- Banner -->
+<!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72a18f&height=120&section=header"/>
 
-<!-- Centered Typing Text -->
+<!-- Name -->
 <h1 align="center">
-  <img alt="Hi, I'm NEEHARA PRAJESH" title="Hi" src="https://readme-typing-svg.herokuapp.com?color=72a18f&size=30&center=true&lines=Hi%2C+I'm+NEEHARA+PRAJESH">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=72a18f&size=30&center=true&vCenter=true&lines=Hi%2C+I'm+NEEHARA+PRAJESH" 
+    alt="Typing SVG"
+  />
 </h1>
 
+<!-- Short intro -->
 <p align="center">
-AI & Machine Learning Engineer • Full-Stack Developer • Problem Solver
+<strong>Full-Stack Developer • C++ Programmer • Software Engineer</strong>
 </p>
 
 <p align="center">
-I build intelligent systems, scalable applications, and real-world solutions using AI, ML, and modern software engineering.
+I build scalable web applications, write efficient C++ code, and focus on strong software engineering fundamentals.
 </p>
 
 ---
 
-## 📊 GitHub Stats & Highlights
+## 📊 GitHub Stats
 
 <div align="center">
 
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neehubee&show_icons=true)  
-![Profile views](https://komarev.com/ghpvc/?username=neehubee&color=72a18f)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neehubee&show_icons=true&theme=default)
+![Profile Views](https://komarev.com/ghpvc/?username=neehubee&color=72a18f)
 
 </div>
 
 ---
 
-### 🏆 Highlights
-- Built **production-ready AI systems** using NLP, CV, and LLMs  
-- Designed **end-to-end pipelines** from data to deployment  
-- Winner & finalist in **multiple hackathons**  
-- Open-source contributor & continuous learner  
+## 🏆 Highlights
+- Built **end-to-end full-stack applications**
+- Strong focus on **C++ + Data Structures & Algorithms**
+- Experience with **REST APIs, databases, and deployments**
+- Comfortable working across **frontend, backend, and system logic**
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I’m a Computer Science engineer passionate about **building end-to-end, production-ready systems** — from data and models to APIs and user-facing applications.
+I’m a Computer Science engineer inclined toward **full-stack development** and **C++ programming**.
 
-My work spans:  
-- **AI & Machine Learning** (NLP, Computer Vision, LLMs)  
-- **Full-Stack & Backend Engineering**  
-- **Scalable, deployment-ready systems**
+What I enjoy:
+- Building **complete web applications** from UI to backend
+- Writing **clean, efficient C++** for problem-solving
+- Understanding **how systems work end-to-end**
 
-I enjoy solving ambiguous problems, experimenting with emerging technologies, and turning ideas into impactful products.
+I have **basic exposure to AI/ML concepts**, but my primary focus is on becoming a **solid software engineer** with strong fundamentals.
 
 ---
 
-### 🧠 Programming Languages
+## 🧠 Programming Languages
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 ---
 
-### 🌐 Web & Backend Engineering
+## 🌐 Web & Backend Development
+
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
 
 ---
 
-### 🤖 AI, Machine Learning & LLMs
+## 🤖 AI & Machine Learning (Foundational)
+
 <div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white">
-  <img src="https://img.shields.io/badge/LangChain-000000.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</div>
+
+<p align="center"><i>Basic exposure while focusing primarily on full-stack development.</i></p>
+
+---
+
+## 💽 Databases
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 ---
 
-### 💽 Databases & Data
+## 🛠 Tools & Platforms
+
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 
 ---
 
-### 🛠 Tools, Deployment & Platforms
-<div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black">
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-</div>
+## 🌐 Connect With Me
 
----
-
-### 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/neehara-prajesh-neehara">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
   <a href="mailto:neeharaprajesh.mec@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
 ---
-<p align="center">
-<i>"It’s not who I am underneath, but what I do that defines me."</i><br>
 
+<p align="center">
+<i>"It’s not who I am underneath, but what I do that defines me."</i>
 </p>
 
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72a18f&height=120&section=header&rotate=180"/>
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=72a18f&height=120&section=footer"/>
 
 </div>
